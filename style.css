@@ -7,13 +7,9 @@ body, html {
   height: 100%;
 }
 
-h1 {
-  color: #0066ff
-}
-
 .container {
   background-position: center center;
-  background-image: url("https://space-facts.com/wp-content/uploads/magellanic-clouds.png");
+  background-image: url("http://weknowyourdreams.com/images/sand/sand-02.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -21,6 +17,17 @@ h1 {
 .header {
    margin: auto;
    text-align: center;
+
+}
+
+.header-text {
+ letter-spacing: 1.5px;
+ color: #FFF;
+ text-align: center;
+ margin: 0 auto;
+ width: 45%;
+ position: relative;
+ top: 185px;
 
 }
 
