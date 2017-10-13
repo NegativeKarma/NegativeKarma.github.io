@@ -9,9 +9,10 @@ body, html {
 }
 
 .container {
-  background: rgb(100, 150, 232);
+  background-position: center center;
+  background-image: url("http://weknowyourdreams.com/images/sand/sand-02.jpg");
+  background-size: cover;
   height: 100%;
-
 }
 
 .header-text {
