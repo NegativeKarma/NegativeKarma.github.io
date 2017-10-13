@@ -9,7 +9,7 @@ body, html {
 }
 
 .container {
-  background: rgb(100, 150, 32);
+  background: rgb(100, 150, 232);
   height: 100%;
 
 }
@@ -106,18 +106,5 @@ width: 25%;
   padding-right: 30px;
   line-height: 1.2em;
   letter-spacing: 0.7px;
-
-}
-
-
-
-
-.prop img {
-  border: 2px solid orange;
-  border-radius: 100%;
-  position: relative;
-  bottom: 200px;
-
-
 
 }
