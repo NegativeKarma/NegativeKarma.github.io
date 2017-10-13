@@ -37,14 +37,13 @@ body, html {
   z-index: 1;
   position: fixed;
   text-align: center;
-  border-bottom: 1px solid lightgray;
 
 }
 
 .navB li{
   letter-spacing: 1px;
-  font-size: 12px;
-  font-family: Arial;
+  font-size: 18px;
+  font-family: Roboto;
   padding: 20px 20px;
   display: inline-block;
   color: #FFF;
