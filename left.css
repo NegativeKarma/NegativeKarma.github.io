@@ -33,21 +33,18 @@ width: 25%;
 
 }
 
-
 .nav {
 
   width: 100%;
   position: fixed;
   text-align: center;
 
-  border-bottom: 1px solid lightgray;
-
 }
 
 .navB li{
   letter-spacing: 1px;
-  font-size: 12px;
-  font-family: Arial;
+  font-size: 18px;
+  font-family: Roboto;
   padding: 20px 20px;
   display: inline-block;
   color: #FFF;
@@ -88,11 +85,11 @@ width: 25%;
  }
 
  .prop h2 {
-   font-family: "PT Mono", sans-serif;
+   font-family: "PT Mono", gothic;
    font-size: 30px;
    position: relative;
    bottom: 150px;
-   border-bottom: 5px solid orange;
+   border-bottom: 5px solid blue;
    width: 35%;
    margin: auto;
    text-align: center;
