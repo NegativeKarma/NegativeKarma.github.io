@@ -15,32 +15,28 @@ body, html {
 }
 
 .header {
-   margin: auto;
-   text-align: center;
-
+  margin: auto;
+  text-align: center;
 }
 
 .header-text {
- letter-spacing: 1.5px;
- color: #FFF;
- text-align: center;
- margin: 0 auto;
- width: 45%;
- position: relative;
- top: 185px;
-
+  letter-spacing: 1.5px;
+  color: #FFF;
+  text-align: center;
+  margin: 0 auto;
+  width: 45%;
+  position: relative;
+  top: 185px;
 }
 
 .nav {
-
   width: 100%;
   z-index: 1;
   position: fixed;
   text-align: center;
-
 }
 
-.navB li{
+.navB li {
   letter-spacing: 1px;
   font-size: 18px;
   font-family: Roboto;
